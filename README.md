@@ -1,5 +1,5 @@
 # ERL_2013
-Model version for Stewart et al. 2013 (ERL)
+Model version for Stewart, Wollheim et al. 2013 (ERL)
 
 Contacts:  rob.stewart@unh.edu, wil.wollheim@unh.edu
 
